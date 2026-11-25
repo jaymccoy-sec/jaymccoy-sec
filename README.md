@@ -5,5 +5,6 @@
 - 📫 Currently: homelab on a Dell T630 (Proxmox, Docker, Ollama), plus a glassy Windows wallpaper app side project
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love fishing and gaming and all things tech
+- 💻 CompTIA Tech+ certified!
 
 
